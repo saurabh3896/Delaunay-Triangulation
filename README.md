@@ -1,3 +1,5 @@
+README
+
 This is just a quick little implementation of [Delaunay Triangulation][1] in
 JavaScript. It was mostly ported from [Paul Bourke's C implementation][2], but
 I referenced some bits from [another JavaScript implementation][3] and rewrote
